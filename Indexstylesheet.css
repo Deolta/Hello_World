@@ -3,7 +3,7 @@ selector {
     property: value;
 */
 #content_htmlcss {
-font-family: optima;
+    font-family: optima;
 text-transform: uppercase;
 font-size: 15px;
 color: rgba(37, 16, 230, 0.836);
